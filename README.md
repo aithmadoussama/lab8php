@@ -143,10 +143,6 @@ Ils encapsulent les requêtes SQL.
 
 ## 📄 Auteur
 
-Projet réalisé dans le cadre du **LAB8**.
-
+Ait Hmad Oussama
 ---
 
-## 📌 Licence
-
-Projet académique – Usage pédagogique.
